@@ -1,0 +1,14 @@
+Category,Possible,Total,,,,
+Front-End Checklist:,,,Home,Login,Registration,CSS
+"The view uses valid HTML and valid CSS (HTML5, CSS3).",1,0,Errors,Errors,Errors,Errors
+All CSS is of your own creation. No outside frameworks or libraries are allowed.,1,1,,,,
+"All CSS, HTML and JavaScript are in separate files.",1,1,,,,
+The view headings form an outline with no heading levels being skipped.,1,1,ok,No headings,No headings,
+The total download weight of all resources in the view is less than 500kb.,1,1,,,,
+The view is responsive and renders correctly on all device screens.,1,0,Delorean cut off,ok,ok,
+The view uses the available screen real estate on all screen sizes without large blank areas.,1,1,,,,
+"The content of the view is readable, without zooming and without horizontal scrolling, on mobile screens.",1,1,,,,
+"The <title> element contains reference to content, main content + separator + name (e.g. PHP Motors | Account).",1,0,ok,Says Home,Says Home,
+The view passes WAVE validation with no error or contrast error.,1,0,Contrast errors,Contrast errors,Contrast errors,
+,,,,,,
+TOTAL,10,6,,,,
